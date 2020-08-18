@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Biodata</string>
+    <string name="data_pribadi_label">Data Pribadi</string>
+    <string name="data_pendidikan_label">Data Pendidikan</string>
+    <string name="kemampuan_label">Kemampuan</string>
+    <string name="pengalaman_label">Pengalaman</string>
+    <string name="keluar_label">Keluar</string>
+    <string name="nama_label">Nama : Oka Putra Mayhendra</string>
+    <string name="ttl_label">TTL : Tangerang, 30 Juni 1997</string>
+    <string name="mybiodata">MyBiodata</string>
+    <string name="jk_label">Jenis Kelamin : Laki-Laki</string>
+    <string name="agama_label">Agama : Islam</string>
+    <string name="email_label">Email : okka.joker@gmail.com</string>
+    <string name="tinggi_label">Tinggi Badan : 170 CM</string>
+    <string name="berat_label">Berat Badan : 55 Kg</string>
+    <string name="handphone_label">Handphone : 088210732139</string>
+    <string name="alamat_label">Alamat :</string>
+    <string name="alamat_isi1">Duta Asri Palem 1 Blok H/11</string>
+    <string name="alamat_isi2">Kab. Tangerang, Banten</string>
+    <string name="status_label">Status : Single</string>
+    <string name="back_label">Kembali</string>
+</resources>
