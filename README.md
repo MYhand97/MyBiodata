@@ -1,0 +1,2 @@
+# MyBiodata
+Latihan Kotlin
